@@ -2,6 +2,8 @@
 
 A working React PWA and TypeScript backend for demonstrating buyer-authorised escrow release. **No real money, MTN connection, Azure resources, OTPs or SMS.** Do not enter real personal information.
 
+No affiliation with MTN is claimed. This is an independent mock demo, not an approved MTN product or a live payment service.
+
 ## Run
 
 Node 22 or later:
